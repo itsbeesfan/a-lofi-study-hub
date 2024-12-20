@@ -1,5 +1,5 @@
 ## lo-fi study hub - beesfan / tats morales
-## (works best with google chrome!)
+## (works best with google chrome and fullscreen!)
 
 this is a lo-fi style study hub with a built in timer, a cozy background and some 20-minute lofi mixes, perfect for your studying needs!
 
