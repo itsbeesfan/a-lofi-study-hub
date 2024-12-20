@@ -9,5 +9,4 @@ this is a lo-fi style study hub with a built in timer, a cozy background and som
 - basic audio player with 2 lofi hiphop mixes that last between 20 and 30 minutes.
 
 ## thanks and getting started
-work in progress (maybe, if peopl
-e like this enough I might add more features) **suggestions and feedback are always happily accepted!**
+work in progress (maybe, if people like this enough I might add more features) **suggestions and feedback are always happily accepted!**
